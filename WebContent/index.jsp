@@ -9,5 +9,6 @@
 	</head>
 	<body>
 		<h1>1. <a href="CalcServlet?num1=3&num2=4">Calculator servlet</a></h1>
+		<h1>2. <a href="Calc.jsp">JSP Calculator</a></h1>
 	</body>
 </html> 
